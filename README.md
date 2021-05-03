@@ -1,0 +1,2 @@
+# writtenCharacters
+written characters data
